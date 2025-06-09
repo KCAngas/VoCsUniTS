@@ -1,0 +1,9 @@
+.venv/
+consonants/
+full_cleaned/
+full_converted/
+full_raw/
+manifests/
+plots/
+scripts/
+segments/
